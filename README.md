@@ -1,5 +1,3 @@
-# Apresentacao
-
 ## Olá Pessoal✌
 
   ### Sou a Juliana Yumi, estou na área de tecnologia há mais de 10 anos e Amo o que faço!
