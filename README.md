@@ -3,12 +3,18 @@
   ### ✨ Sou a Juliana Yumi ✨, estou na área de tecnologia há mais de 10 anos e ✨ Amo o que faço! ✨
   ### Venho através deste perfil para mostrar um pouco dos meus projetos e estudos que acumulei ao longo dos anos. ✨
 
+
+
 🔸 Formada em Informática para Negócios pela FATEC SBC e também em Tecnologia da Informação pela Faculdade Anchieta SBC.
 
 🌱 Estou cursando Data Science pela FIAP EAD, com previsão de conclusão em 2025.
 
 
+
+
+
 ### 🔭 Minhas habilidades e conhecimentos que adquiri ao longo dos anos, incluem:
+
 
 
 ⚡ SQL SERVER (manipulação e programação)
