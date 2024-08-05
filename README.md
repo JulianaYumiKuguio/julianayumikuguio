@@ -1,65 +1,65 @@
 ## Olá Pessoal✌
 
-  ### Sou a Juliana Yumi, estou na área de tecnologia há mais de 10 anos e Amo o que faço!
-  ### Venho através deste perfil para mostrar um pouco dos meus projetos e estudos que acumulei ao longo dos anos. 
+  ### ✨ Sou a Juliana Yumi ✨, estou na área de tecnologia há mais de 10 anos e ✨ Amo o que faço! ✨
+  ### Venho através deste perfil para mostrar um pouco dos meus projetos e estudos que acumulei ao longo dos anos. ✨
 
-🔸Formada em Informática para Negócios pela FATEC SBC e também em Tecnologia da Informação pela Faculdade Anchieta SBC.
+🔸 Formada em Informática para Negócios pela FATEC SBC e também em Tecnologia da Informação pela Faculdade Anchieta SBC.
 
-🌱Estou cursando Data Science pela FIAP EAD, com previsão de conclusão em 2025.
+🌱 Estou cursando Data Science pela FIAP EAD, com previsão de conclusão em 2025.
 
 
 ### 🔭 Minhas habilidades e conhecimentos que adquiri ao longo dos anos, incluem:
 
 
-◽ SQL SERVER (manipulação e programação)
+⚡ SQL SERVER (manipulação e programação)
 
-◽ Modelagem de Dados
+⚡ Modelagem de Dados
 
-◽ Python
+⚡ Python
 
-◽ Alteryx
+⚡ Alteryx
 
-◽ Oracle
+⚡ Oracle
 
-◽ MySQL
+⚡ MySQL
 
-◽ Power BI
+⚡ Power BI
 
-◽ Excel
+⚡ Excel
 
-◽ DevOps
+⚡ DevOps
 
-◽ Análise de sistemas 
+⚡ Análise de sistemas 
 
-◽ Programação de Sistemas ERP
+⚡ Programação de Sistemas ERP
 
-◽ Sistemas de Emissão de NF-e
+⚡ Sistemas de Emissão de NF-e
 
-◽ VB6
+⚡ VB6
 
-◽ VB.net
+⚡ VB.net
 
-◽ Consultora Tributária
+⚡ Consultora Tributária
 
-◽ Arquitetura Analítica
+⚡ Arquitetura Analítica
 
-◽ Machine Learning
+⚡ Machine Learning
 
-◽ Inteligência Artificial
+⚡ Inteligência Artificial
 
-◽ Inteligência Emocional
+⚡ Inteligência Emocional
 
-◽ Java
+⚡ Java
 
-◽ Lógica de Programação
+⚡ Lógica de Programação
 
-◽ Big Data
+⚡ Big Data
 
-◽ Social e Sustentabilidade
+⚡ Social e Sustentabilidade
 
-◽ Estatística para Data Science
+⚡ Estatística para Data Science
 
-◽ Arquitetura de Banco de Dados
+⚡ Arquitetura de Banco de Dados
 
 
 ### 🎯 Principais Projetos:
