@@ -29,6 +29,8 @@
 
 ⚡ MySQL
 
+⚡ MongoDB
+
 ⚡ Power BI
 
 ⚡ Excel
