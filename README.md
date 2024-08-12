@@ -31,7 +31,7 @@
 
 ⚡ MongoDB
 
-⚡ Power BI
+⚡ Power BI (Linguagem DAX e M)
 
 ⚡ Excel
 
