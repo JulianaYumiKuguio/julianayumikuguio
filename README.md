@@ -37,6 +37,8 @@
 
 ⚡ DevOps
 
+⚡ Google Analytics;
+
 ⚡ Análise de sistemas 
 
 ⚡ Programação de Sistemas ERP
